@@ -9,8 +9,8 @@ tipo_pizza = ""             # Usaremos para capturar el tipo de pizza escogida p
 precios_pizza = 5000        # Asignamos precio fijo para todas las pizzas 
 total_pizzas_vendidas = 0   # Acumulador para el total de pizzas vendidas
 total_venta_diaria = 0      # Acumulador para el monto total de la venta diaria
- #prueba de inyegarcion git
- 
+ #prueba de integracion git
+
 # Funcion para mostrar menu de pizzas
 def menu_pizzas():
     print("____________MENU PIZZAS____________\n  ") 
